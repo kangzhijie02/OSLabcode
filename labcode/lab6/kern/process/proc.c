@@ -128,7 +128,7 @@ alloc_proc(void)
         proc->yptr=NULL;
         proc->optr=NULL;
 
-        // LAB6:YOUR CODE (update LAB5 steps)
+        // LAB6:2311656 (update LAB5 steps)
         /*
          * below fields(add in LAB6) in proc_struct need to be initialized
          *       struct run_queue *rq;                       // run queue contains Process
